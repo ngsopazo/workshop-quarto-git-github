@@ -48,7 +48,7 @@ lang: pt-br
 </center>
 
 ::: footer
-[workshop-quarto-git-github](https://github.com/mauriciovancine/workshop-quarto-git-github)
+[workshop-quarto-git-github](https://www.scielo.br/j/rae/a/nDQ9C86LffnMCdB5YM4MRcg/?lang=pt)
 :::
 
 ## Reprodutibilidade
@@ -245,9 +245,9 @@ Cada vez mais **necessário** em colaborações
 **GitHub**
 
 ::: {style="font-size: 80%;"}
-- Plataforma de hospedagem de código e arquivos com controle de versão usando o git
-- Desenvolvido em 2008 usando Ruby on Rails por 'computeiros' de São Francisco
-- Em 2018, a Microsoft anunciou a compra da plataforma por US$ 7,5 bilhões
+- Plataforma de **hospedagem** de código e arquivos com **controle de versão** usando o git
+- Desenvolvido em **2008** usando Ruby on Rails em São Francisco
+- Em 2018, a Microsoft anunciou a **compra** da plataforma por US$ 7,5 bilhões
 :::
 
 ![](img/github_logo2.png){fig-align='center'}
@@ -296,11 +296,19 @@ Cada vez mais **necessário** em colaborações
 - **Packages**: pacotes (bibliotecas) ou containers (Docker)
 - **Stars**: respositórios marcados com estrela
 
+:::footer
+[Github](https://github.com/mauriciovancine)
+:::
+
 ## Detalhes do GitHub
 
 **Settings**: `superior direito > foto do perfil > Settings`
 
 ![](img/github_profile_settings.png){fig-align='center'}
+
+:::footer
+[Github](https://github.com/mauriciovancine/mauriciovancine)
+:::
 
 ## Detalhes do GitHub
 
@@ -308,17 +316,29 @@ Cada vez mais **necessário** em colaborações
 
 ![](img/github_profile_settings_detalhes.png){fig-align='center'}
 
+:::footer
+[Github](https://github.com/mauriciovancine/mauriciovancine)
+:::
+
 ## Detalhes do GitHub
 
 **Settings**
 
 ![](img/github_profile_settings_detalhes02.png){fig-align='center'}
 
+:::footer
+[Github](https://github.com/mauriciovancine/mauriciovancine)
+:::
+
 ## Detalhes do GitHub
 
 **Repositório**
 
 ![](img/github_repository.png){fig-align='center'}
+
+:::footer
+[Github](https://github.com/mauriciovancine/mauriciovancine)
+:::
 
 ## Detalhes do GitHub
 
@@ -336,11 +356,19 @@ Cada vez mais **necessário** em colaborações
 - **Settings**: gerencia as configurações do repositório
 :::
 
+:::footer
+[Github](https://github.com/mauriciovancine/mauriciovancine)
+:::
+
 ## Detalhes do GitHub
 
 **README.md**
 
 ![](img/github_readme.png){fig-align='center'}
+
+:::footer
+[Github](https://github.com/mauriciovancine/mauriciovancine)
+:::
 
 ## Detalhes do GitHub
 
@@ -1555,7 +1583,7 @@ Podemos hospedar gratuitamente as saídas do `Quarto` de forma on-line no GitHub
 :::
 
 <center>
-<img src="img/quarto-github.png" style="width:90%"/>
+<img src="img/quarto-github.png" style="width:85%"/>
 </center>
 
 ::: footer
